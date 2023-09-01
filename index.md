@@ -3,6 +3,6 @@ layout: default
 tags: home
 ---
 
-# 👋 Welcome to Programming Spot
+#**<p style="text-align: center;font-size:50px"> 👋 Welcome to Programming Spot! </p>**
 
 this is a placeholder
