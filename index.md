@@ -1,8 +1,6 @@
----
-layout: default
-tags: home
----
 
-# **<p style="text-align: center;font-size:50px"> 👋 Welcome to Programming Spot! </p>**
+# 👋 Welcome to TheSpikyHedgehog's Website!
 
-this is a placeholder
+> Note that this is still a WIP!
+
+### Cool things
