@@ -1,5 +1,3 @@
-<title>Home - TheSpikyHedgehog</title>
-
 # Welcome 👋!
 
 > Note that this is still a WIP!
