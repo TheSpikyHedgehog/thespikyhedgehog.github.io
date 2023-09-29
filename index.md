@@ -1,5 +1,5 @@
-
-# 👋 Welcome to TheSpikyHedgehog's Website!
+<title>Home</title>
+# Welcome 👋!
 
 > Note that this is still a WIP!
 
