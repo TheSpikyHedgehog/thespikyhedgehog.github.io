@@ -2,8 +2,5 @@
 
 > Note that this is still a WIP!
 
-### A few games I made . . .
+<li class="navbar-Blog"><a href="games.md">Games</a></li>
 
-Timmy Brawl:
-
-<iframe frameborder="0" src="https://itch.io/embed/2284028?linkback=true&amp;bg_color=fef9ea" width="552" height="167"><a href="https://thespikyhedgehog.itch.io/timmy-brawl">Timmy Brawl by TheSpikyHedgehog</a></iframe>
