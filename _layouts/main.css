@@ -19,14 +19,11 @@
   margin-left: 2.5em;
 }
 
-html, body {
-    height: 100%;
-    margin: 0;
-}
-
-.gif-container {
-  background: url("https://ibb.co/JqddzCm") center;
-  background-size: cover;
-
-  height: 100%;
+#bg-video {
+  position: fixed;
+  left: 50vw;
+  transform: translate(-50%);
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
