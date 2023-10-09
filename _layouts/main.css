@@ -18,3 +18,14 @@
 .bio-text {
   margin-left: 2.5em;
 }
+
+body{
+    background-image: url('https://ibb.co/JqddzCm');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
