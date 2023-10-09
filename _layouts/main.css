@@ -3,6 +3,12 @@
     height:100%;
 }
 
+.logo {
+  position: absolute;
+  width: 80vw;
+  left: 10vw;
+}
+
 .bio {
   position: absolute;
   top: 24vw;
