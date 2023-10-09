@@ -14,3 +14,7 @@
   text-align: center;
   box-shadow: 0 0 0 2px rgb(255, 255, 255);
 }
+
+.bio-text {
+  margin-left: 2.5em;
+}
