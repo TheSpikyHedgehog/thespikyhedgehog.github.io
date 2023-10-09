@@ -12,6 +12,13 @@
   width: 80vw;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .bio {
   position: absolute;
   top: 24vw;
